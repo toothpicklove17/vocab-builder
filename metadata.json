@@ -1,0 +1,5 @@
+{
+  "name": "Vocab Builder - final",
+  "description": "An application that helps users learn English vocabulary by analyzing pasted text or text from an uploaded image. Users can select words or phrases to get definitions, usage examples, and pronunciation, and save them to a personal vocabulary list.",
+  "requestFramePermissions": []
+}
